@@ -1,0 +1,36 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.recipe_title {
+    font-size: 24px;
+    text-align: center;
+}
+
+.recipe_head {
+    font-size: 22px;
+    text-align: center;
+}
+
+.recipe_head.recipe_subhead {
+    font-size: 18px;
+    color: white;
+    background-color: blue;
+}
+
+.recipe_img {
+    height: auto;
+    width: 310px;
+}
+
+.recipe_items,
+.recipe_steps {
+    font-weight: 600;
+}
+
+.recipe_links {
+    font-size: 16px;
+    color: white;
+    background-color: green;
+}
